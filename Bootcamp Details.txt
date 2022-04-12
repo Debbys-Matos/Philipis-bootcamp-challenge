@@ -1,0 +1,6 @@
+Name: Bootcamp Philips Fullstack Developer | You Are You
+Level: Basic
+Hours: 132 hours ( will be used as complementary hours for my bachelor degree) 
+Courses: 45 (3 already done)
+Challenges - Projects : 5 ( The repository is the first one)
+Challenges - Codes : 4
